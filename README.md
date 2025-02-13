@@ -30,7 +30,7 @@ To get started with CSNeT materials and robotics integration:
 - Follow setup instructions for the Create 3 and Yanshee robots in the /setup directory.
 - Run sample code from the /examples folder to interact with the robots.
 - Contribute or customize the materials to fit your needs.
-- 
+ 
 **Where Users Can Get Help with the Project**
 If you need help, you can:
 
